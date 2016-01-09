@@ -1,0 +1,11 @@
+The cache is a stand alone part of the project.
+It is not integrated to work with the vliw processor. 
+
+The cache specifications are as follows:
+
+cache size		1KB
+cache line size		8B
+associativity		2
+write policy		write through
+replacement policy 	fifo
+cache type		way prediction
